@@ -1,5 +1,3 @@
-# Indian-Vehicle-Detection-YOLOv4
-
 # Mask Detection Project
 
 This project consists of three Jupyter notebooks: `21.ipynb`, `22.ipynb`, and `23.ipynb`, which work together to create a mask detection model using convolutional neural networks (CNNs) and OpenCV for real-time face mask detection. Below is a brief explanation of the steps and processes involved.
